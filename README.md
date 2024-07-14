@@ -44,8 +44,6 @@ I'm shubham kumar gupta
 ![Forex Market](https://img.shields.io/badge/Forex-Market-blue?logo=currency)
 ![Cryptocurrency](https://img.shields.io/badge/Crypto-Market-orange?logo=bitcoin)
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamiit9162&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamiit9162&layout=compact&theme=radical)
